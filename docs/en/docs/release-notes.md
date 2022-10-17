@@ -2,6 +2,7 @@
 
 ## Latest Changes
 
+* Bump dawidd6/action-download-artifact from 2.21.1 to 2.23.0. PR [#3](https://github.com/jujumilk3/fastapi/pull/3) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆️ Upgrade Typer to include Rich in scripts for docs. PR [#5502](https://github.com/tiangolo/fastapi/pull/5502) by [@tiangolo](https://github.com/tiangolo).
 * 🐛 Fix calling `mkdocs` for languages as a subprocess to fix/enable MkDocs Material search plugin. PR [#5501](https://github.com/tiangolo/fastapi/pull/5501) by [@tiangolo](https://github.com/tiangolo).
 
